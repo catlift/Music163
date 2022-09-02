@@ -22,7 +22,3 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-
-## Demo site
-
-# http://weixin.nmict.cn/vue-music163/
